@@ -5,7 +5,7 @@ if (age < 50) age += 10;
 
 // *** Tuple ***
 /* A fixed length array where each element has a particular type */
-let user: [number, string] = [1, "abc"];
+let myUser: [number, string] = [1, "abc"];
 
 // *** Enums ***
 /* Represent a list of related constants */
