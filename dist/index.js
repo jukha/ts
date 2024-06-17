@@ -2,7 +2,7 @@
 let age = 10;
 if (age < 50)
     age += 10;
-let user = [1, "abc"];
+let myUser = [1, "abc"];
 const small = 1;
 const medium = 2;
 const large = 3;
